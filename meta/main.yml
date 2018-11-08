@@ -1,0 +1,45 @@
+dependencies: []
+
+galaxy_info:
+  author: devsoul
+  role_name: phpcov
+  description: Install PHPCOV on your Linux machine
+  company: Devhost Ltd.
+  license: MIT
+  min_ansible_version: 2.0
+  platforms:
+  - name: Debian
+    versions:
+    - all
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Fedora
+    versions:
+    - all
+  - name: EL
+    versions:
+    - all
+  - name: GenericLinux
+    versions:
+    - all
+  - name: FreeBSD
+    versions:
+    - all
+  - name: GenericBSD
+    versions:
+    - all
+  - name: GenericUNIX
+    versions:
+    - all
+  galaxy_tags:
+  - phpcov
+  - phpunit
+  - codecoverage
+  - coverage
+  - php
+  - phpdev
+  - phptools
+  - phpapps
+  - web
+  - development
