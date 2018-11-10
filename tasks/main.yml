@@ -1,8 +1,8 @@
 ---
 - name: Install PHPCOV.
-  become: yes
+  become: true
   get_url:
     url: https://phar.phpunit.de/phpcov.phar
     dest: /usr/local/bin/phpcov
     mode: 0755
-    force: yes
+    force: true
